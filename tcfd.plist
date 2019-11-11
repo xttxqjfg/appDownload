@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://install.zwpfb.cn:8080/appfile/zwshop-ios-release.ipa</string>
+					<string>http://10.11.6.26:8800/localfile/SCTutorialOnline.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
