@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.2.1:8800/localfile/com.zkjt.ydbg.ipa</string>
+					<string>http://192.168.1.2:8800/localfile/com.zkjt.ydbg.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
